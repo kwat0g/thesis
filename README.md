@@ -168,7 +168,7 @@ This ERP system is designed for **internal manufacturing operations only** - no 
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/kwat0g/thesis.git
    cd thesis
    ```
 
